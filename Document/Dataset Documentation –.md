@@ -152,3 +152,48 @@
 * None
 
 ---
+
+## 📅 Sprint 1 – Day 4: Exploratory Data Analysis (EDA)
+
+### **Tasks Planned (SOD)**
+
+* Load cleaned dataset (`intern_data_cleaned.csv`) into notebook
+* Perform exploratory data analysis using visualizations
+* Analyze relationships between key variables
+* Identify trends and patterns in intern performance
+* Generate charts such as scatter plots, bar charts, histograms, and heatmaps
+* Derive meaningful insights from the dataset
+* Update notebook and documentation
+* Push changes to GitHub
+
+---
+
+### **Tasks Completed (EOD)**
+
+* Loaded cleaned dataset into notebook
+* Performed data visualization using matplotlib and seaborn
+* Created scatter plot for Tasks Assigned vs Tasks Completed
+* Analyzed department-wise performance using bar chart
+* Visualized attendance distribution using histogram
+* Examined completion rate distribution
+* Generated correlation heatmap to understand relationships between variables
+* Derived basic insights from visual analysis
+* Updated notebook with EDA steps
+* Updated documentation and pushed changes to GitHub
+
+---
+
+### **Notes**
+
+* EDA helps in understanding data patterns and relationships
+* Visualizations make it easier to interpret performance trends
+* Correlation analysis helps identify key factors affecting performance
+* Insights generated here will be used for KPI definition and dashboard creation
+
+---
+
+### **Blockers**
+
+* None
+
+---
