@@ -1,50 +1,154 @@
-&#x20;**Dataset Documentation – Intern Performance Analytics Dashboard**
+# Intern Performance Analytics Dashboard
 
+---
 
+##  Sprint 1 – Day 1: Dataset Planning
 
-&#x20;**Purpose**
+### **Tasks Planned (SOD)**
 
-This document explains each column in the dataset created for Day 1 of Sprint 1. It helps anyone using the dataset understand the meaning, data type, and purpose of each field.
+* Understand project requirements for the Intern Performance Analytics Dashboard
+* Identify required data fields:
 
+  * Intern details (ID, Name, Department)
+  * Task information (Tasks Assigned, Tasks Completed)
+  * Attendance
+  * Feedback / Ratings
+  * Submission Timeliness
+  * Week tracking
+* Design dataset structure (columns & data types)
+* Research similar datasets
 
+---
 
+### **Tasks Completed (EOD)**
 
+* Finalized dataset structure with columns:
 
-&#x20;**Dataset Columns**
+  * Intern_ID
+  * Name
+  * Department
+  * Tasks_Assigned
+  * Tasks_Completed
+  * Attendance
+  * Feedback
+  * Submission_Timeliness
+  * Week
 
+* Designed dataset schema and column definitions
 
+* Prepared project folder structure
 
-| Column Name             | Data Type | Description / Purpose                                              |
+* Documented dataset details
 
-|-------------------------|-----------|-----------------------------------------------------------------   |
+---
 
-| Intern\_ID               | int       | Unique identifier for each intern                                  |
+### **Notes**
 
-| Name                    | string    | Intern’s full name                                                 |
+* Dataset structure is designed based on real-world intern performance metrics
+* Focus is on tracking productivity, attendance, and performance
+* This structure will be used to generate synthetic data in upcoming steps
 
-| Department              | string    | Department the intern belongs to (UI/UX, Data Science, Development)|
+---
 
-| Tasks\_Assigned          | int       | Number of tasks assigned to the intern for the week                |
+### **Blockers**
 
-| Tasks\_Completed         | int       | Number of tasks completed by the intern                            |
+* None
 
-| Attendance              | float     | Attendance percentage for the week                                 |
+---
 
-| Feedback                | float     | Mentor rating for intern performance (numeric scale, e.g., 1–5)    |
+## 📅 Sprint 1 – Day 2: Dataset Creation
 
-| Submission\_Timeliness   | float     | Score representing how timely tasks were submitted                 |
+### **Tasks Planned (SOD)**
 
-| Week                    | string    | Week number to track intern progress (Week1, Week2, etc.)          |
+* Create synthetic dataset using Python
+* Generate intern performance data
+* Calculate derived metrics (Completion Rate)
+* Save dataset in CSV format
+* Update notebook and README
 
+---
 
+### **Tasks Completed (EOD)**
 
+* Generated synthetic dataset using Python
 
+* Created dataset with columns:
 
-**Notes**
+  * Intern_ID
+  * Name
+  * Department
+  * Tasks_Assigned
+  * Tasks_Completed
+  * Hours_Worked
+  * Attendance
+  * Performance_Score
+  * Completion_Rate
 
-\- Sample dataset is for Day 1 only; later weeks and more interns will be added in future sprints.
+* Calculated Completion Rate as a performance metric
 
-\- Column data types are consistent for ease of analysis and visualization.
+* Saved dataset as `intern_data.csv`
 
-\- This documentation will be updated if new columns or metrics are added.
+* Implemented dataset creation in notebook
 
+* Updated README with Day 2 progress
+
+* Successfully pushed project to GitHub
+
+---
+
+### **Notes**
+
+* Dataset is synthetically generated using Python
+* Random values simulate real-world intern performance
+* Completion Rate is used as a key performance indicator
+
+---
+
+### **Blockers**
+
+* None
+
+---
+
+## 📅 Sprint 1 – Day 3: Data Cleaning
+
+### **Tasks Planned (SOD)**
+
+* Load dataset into notebook
+* Check for missing values
+* Verify data types
+* Remove duplicate records
+* Validate data ranges
+* Perform data cleaning
+* Save cleaned dataset
+* Update documentation
+
+---
+
+### **Tasks Completed (EOD)**
+
+* Loaded dataset into notebook
+* Checked for missing values
+* Handled missing values in Name column
+* Verified data types of all columns
+* Removed duplicate records
+* Validated Completion Rate values
+* Saved cleaned dataset as `intern_data_cleaned.csv`
+* Updated notebook and documentation
+* Pushed updates to GitHub
+
+---
+
+### **Notes**
+
+* Data cleaning ensures dataset quality and consistency
+* Cleaned dataset will be used for analysis and visualization
+* Prepared data for next stage (EDA and dashboard development)
+
+---
+
+### **Blockers**
+
+* None
+
+---
