@@ -197,3 +197,61 @@
 * None
 
 ---
+
+
+
+## 📅 Sprint 1 – Day 5: KPI Identification & Dashboard Planning
+
+### **Tasks Planned (SOD)**
+
+* Load cleaned dataset (`intern_data_cleaned.csv`) into notebook
+* Identify key performance indicators (KPIs) for intern evaluation
+* Calculate overall performance metrics using dataset
+* Analyze department-wise KPIs
+* Plan structure and components of the dashboard
+* Identify key insights to be displayed
+* Update notebook and documentation
+* Push updates to GitHub
+
+---
+
+### **Tasks Completed (EOD)**
+
+* Loaded cleaned dataset into notebook
+
+* Defined key performance indicators (KPIs):
+
+  * Total Tasks Assigned
+  * Total Tasks Completed
+  * Average Completion Rate
+  * Average Performance Score
+  * Average Attendance
+
+* Calculated overall KPI metrics using Python
+
+* Performed department-wise KPI analysis
+
+* Planned dashboard structure including KPI cards, charts, and insights
+
+* Identified key insights for performance tracking
+
+* Updated notebook with KPI calculations and planning
+
+* Updated documentation and pushed changes to GitHub
+
+---
+
+### **Notes**
+
+* KPIs help measure intern performance effectively
+* Completion Rate and Performance Score are key indicators
+* Dashboard planning ensures clear visualization of insights
+* These KPIs will be used in dashboard development (next sprint)
+
+---
+
+### **Blockers**
+
+* None
+
+---
