@@ -255,3 +255,38 @@
 * None
 
 ---
+
+
+## 📅 Sprint 2 – Day 1: Exploratory Data Analysis (EDA)
+🔹 Start of Day (SOD)
+
+### Tasks Planned:
+
+Load cleaned dataset (intern_data_cleaned.csv)
+Perform basic statistical analysis
+Create visualizations (scatter, bar, histogram, heatmap)
+Identify trends and patterns
+Document insights in notebook
+Update documentation and push to GitHub
+🔹 End of Day (EOD)
+
+### Tasks Completed:
+
+Loaded cleaned dataset into notebook
+Performed statistical analysis using describe()
+Created visualizations:
+Scatter plot (Tasks Assigned vs Completed)
+Bar chart (Department-wise Performance)
+Histogram (Attendance Distribution)
+Heatmap (Correlation analysis)
+Identified patterns and relationships in data
+Documented insights in notebook
+Updated EDA notebook
+Pushed changes to GitHub
+🔹 Notes
+EDA helped in understanding data distribution and relationships
+Attendance and task completion impact performance
+Visualization makes data easy to interpret
+Heatmap showed correlation between key variables
+🔹 Any Blockers
+None
