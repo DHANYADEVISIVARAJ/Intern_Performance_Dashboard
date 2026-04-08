@@ -290,3 +290,86 @@ Visualization makes data easy to interpret
 Heatmap showed correlation between key variables
 🔹 Any Blockers
 None
+
+## 📅 Sprint 2 – Day 2: Advanced Data Analysis
+🔹 Start of Day (SOD)
+
+### Tasks Planned:
+
+Perform advanced analysis using groupby()
+Analyze performance based on:
+Department
+Attendance
+Completion Rate
+Identify top and low performing interns
+Create additional visualizations (bar chart, boxplot)
+Derive insights from grouped data
+Document findings in notebook
+Update document.md and push to GitHub
+🔹 End of Day (EOD)
+
+### Tasks Completed:
+
+Loaded cleaned dataset into notebook
+Performed department-wise performance analysis
+Analyzed relationship between attendance and performance
+Created attendance categories (Low, Medium, High)
+Calculated Completion Rate for all interns
+Performed department-wise completion rate analysis
+Identified top 10 and low performing interns
+Created visualizations:
+Bar chart (Department Performance)
+Boxplot (Performance Distribution)
+Documented insights in notebook
+Saved analysis results
+Updated notebook and pushed changes to GitHub
+🔹 Notes
+Advanced analysis provided deeper insights into intern performance
+High attendance is strongly related to better performance
+Completion Rate is a key factor influencing performance
+Department-wise comparison helped identify performance differences
+Visualization helped in better understanding of data distribution
+🔹 Any Blockers
+None
+
+## 📅 Sprint 2 – Day 3: KPI Finalization
+🔹 Start of Day (SOD)
+
+### Tasks Planned:
+
+Identify and finalize key performance indicators (KPIs)
+Calculate overall performance metrics:
+Completion Rate
+Average Performance Score
+Average Attendance
+Perform department-wise KPI comparison
+Analyze relationships between KPIs
+Summarize insights for dashboard preparation
+Document findings in notebook
+Update document.md and push to GitHub
+🔹 End of Day (EOD)
+
+### Tasks Completed:
+
+Loaded cleaned dataset into notebook
+Calculated Completion Rate for all interns
+Computed overall KPIs:
+Total Tasks Assigned
+Total Tasks Completed
+Average Completion Rate
+Average Performance Score
+Average Attendance
+Performed department-wise KPI analysis using groupby()
+Identified best performing department
+Visualized KPI comparison using bar chart
+Derived insights from KPI analysis
+Documented results in notebook
+Updated document.md and pushed changes to GitHub
+🔹 Notes
+KPIs help measure intern performance effectively
+Completion Rate is a strong indicator of productivity
+Attendance has a direct impact on performance
+Department-wise analysis helps identify performance differences
+KPI insights will be used in dashboard development
+🔹 Any Blockers
+None
