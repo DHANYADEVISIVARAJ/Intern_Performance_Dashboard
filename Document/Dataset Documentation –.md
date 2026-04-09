@@ -373,3 +373,44 @@ Department-wise analysis helps identify performance differences
 KPI insights will be used in dashboard development
 🔹 Any Blockers
 None
+
+## Sprint 2 – Day 4: Dashboard Planning
+🔹 Start of Day (SOD)
+
+### Tasks Planned:
+
+Identify key KPIs for dashboard display (Completion Rate, Performance Score, Attendance)
+Select visualizations to include in dashboard
+Design dashboard layout (KPI cards, charts, insights)
+Choose tool for dashboard development (Streamlit)
+Create a basic dashboard structure/wireframe
+Document dashboard planning details
+Update document.md and push to GitHub
+🔹 End of Day (EOD)
+
+### Tasks Completed:
+
+Finalized KPIs for dashboard:
+Completion Rate
+Performance Score
+Attendance
+Selected visualizations:
+Bar chart (Department Performance)
+Scatter plot (Tasks Assigned vs Completed)
+Histogram (Attendance Distribution)
+Heatmap (Correlation Analysis)
+Designed dashboard layout:
+Top section – KPI cards
+Middle section – charts
+Bottom section – insights
+Chose Streamlit as the dashboard development tool
+Documented dashboard structure and planning in notebook
+Updated document.md with Day 4 details
+Pushed all updates to GitHub
+🔹 Notes
+Dashboard planning helps organize how insights will be presented
+KPIs provide a quick summary of performance
+Visualizations make analysis easy to understand
+A well-structured layout improves user experience
+🔹 Any Blockers
+None
