@@ -414,3 +414,28 @@ Visualizations make analysis easy to understand
 A well-structured layout improves user experience
 🔹 Any Blockers
 None
+
+
+## Sprint 2 – Day 5 : Finalization
+
+### SOD (Start of Day)
+Plan to finalize the EDA notebook
+Review all analysis and visualizations
+Clean and organize the notebook
+Finalize key insights and KPI results
+Update document.md
+Prepare project for submission and review
+### EOD (End of Day)
+Completed notebook finalization
+Verified all analysis and visualizations
+Finalized insights and KPI results
+Updated documentation successfully
+Added required screenshots
+Uploaded all files to GitHub
+Project ready for review and submission
+### Notes
+Day focused on final cleanup and project completion
+No new coding was performed
+Ensured clarity and proper structure of work
+###  Blockers
+No blockers faced
